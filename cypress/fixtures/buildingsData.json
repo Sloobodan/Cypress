@@ -1,0 +1,12 @@
+{
+    "mesto": "Novi Sad",
+    "ulica": "Cara Dusana",
+    "broj": "50",
+    "brojStanova": "9",
+    "pogresno": {
+        "pogresno_mesto": "50",
+        "pogresna_ulica": "10",
+        "pogresan_broj": "broj",
+        "pogresan_brojStanova": "broj stanova"
+    }
+}

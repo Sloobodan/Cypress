@@ -1,0 +1,11 @@
+{
+    "admin": "admin@gmail.com",
+    "predsednik": "predSkup@gmail.com",
+    "stanar/vlasnik": "marko@gmail.com",
+    "password": "Bar5slova",
+    "wrong_password": {
+        "whitout_big_letter": "bar5slova",
+        "whitout_number": "Barpetslova",
+        "only_four_character": "Bar5"
+    }
+}
